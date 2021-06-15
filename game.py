@@ -3,8 +3,8 @@ from typing import Text
 import pygame, sys
 from pygame import image
 from pygame.locals import *
-#e
 
+#janela
 print("Rodando")
 pygame.init()
 print("Abriu")
