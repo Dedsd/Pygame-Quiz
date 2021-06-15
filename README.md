@@ -4,6 +4,7 @@
 - [Como instalar](#como-instalar)
 - [Linguagens usadas](#linguagens-usadas)
 - [Contribuidores](#contribuidores)
+- [Créditos](#créditos)
 - [Problemas com o jogo? Contate-nos](#problemas-com-o-jogo?-contate-nos)
 
 ## Descrição
