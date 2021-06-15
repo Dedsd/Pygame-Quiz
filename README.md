@@ -2,7 +2,7 @@
 
 - [Descrição](#descrição)
 - [Como instalar](#como-instalar)
-- [Linguagens usadas](#linguagens-usadas:)
+- [Linguagens usadas:](#linguagens-usadas:)
 - [Contribuidores](#contribuidores)
 - [Problemas com o jogo? Contate-nos](#problemas-com-o-jogo?-contate-nos)
 
