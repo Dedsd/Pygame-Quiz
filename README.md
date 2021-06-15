@@ -40,7 +40,7 @@
 
 ## Contribuidores
 
-[ii](https://cdn.discordapp.com/attachments/774302890142597160/854411903568838656/unknown.png)
+![ii](https://cdn.discordapp.com/attachments/774302890142597160/854411903568838656/unknown.png)
 
 ## Problemas com o jogo? Contate-nos
 
