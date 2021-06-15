@@ -1,5 +1,5 @@
 
-from typing import Tex
+from typing import Text
 import pygame, sys
 from pygame import image
 from pygame.locals import *
