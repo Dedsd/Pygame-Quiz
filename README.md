@@ -8,7 +8,7 @@
 
 ## Descrição
 
-(https://media.discordapp.net/attachments/774302890142597160/854414389343813662/abebdef60659190d7ac2a53ba9635a7d_1.gif?width=408&height=425)
+(images/gif.gif)
 
 > Quiz feito inteiramente com pygame para trabalho escolar
 
