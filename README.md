@@ -42,6 +42,12 @@
 
 ![ii](https://cdn.discordapp.com/attachments/774302890142597160/854411903568838656/unknown.png)
 
+---
+
+## Créditos
+
+- Música por KAHOOT IT (Vylet Trap Remix) [Link](https://bit.ly/3cME5Zw)
+
 ## Problemas com o jogo? Contate-nos:
 
 - mateusdccavalcanti@gmail.com
