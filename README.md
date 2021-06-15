@@ -4,11 +4,12 @@
 - [Como instalar](#como-instalar)
 - [Linguagens usadas](#linguagens-usadas)
 - [Contribuidores](#contribuidores)
+- [Créditos](#créditos)
 - [Problemas com o jogo? Contate-nos](#problemas-com-o-jogo?-contate-nos)
 
 ## Descrição
 
-![gif](image/gif.gif)
+![i](https://i.gyazo.com/abebdef60659190d7ac2a53ba9635a7d.gif)
 
 > Quiz feito inteiramente com pygame para trabalho escolar
 
@@ -40,9 +41,15 @@
 
 ## Contribuidores
 
-![Image](images\ji9c31d4.bmp)
+![ii](https://cdn.discordapp.com/attachments/774302890142597160/854411903568838656/unknown.png)
 
-## Problemas com o jogo? Contate-nos
+---
+
+## Créditos
+
+- Música por KAHOOT IT (Vylet Trap Remix) [Link](https://bit.ly/3cME5Zw)
+
+## Problemas com o jogo? Contate-nos:
 
 - mateusdccavalcanti@gmail.com
 - andrevasc@protonmail.com

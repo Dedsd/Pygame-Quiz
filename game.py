@@ -4,7 +4,7 @@ import pygame, sys
 from pygame import image
 from pygame.locals import *
 
-
+#janela
 print("Rodando")
 pygame.init()
 print("Abriu")
