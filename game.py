@@ -3,7 +3,7 @@ from typing import Text
 import pygame, sys
 from pygame import image
 from pygame.locals import *
-
+#e
 
 print("Rodando")
 pygame.init()
