@@ -8,7 +8,7 @@
 
 ## Descrição
 
-![gif](image/gif.gif)
+(image/gif.gif)
 
 > Quiz feito inteiramente com pygame para trabalho escolar
 
@@ -40,7 +40,7 @@
 
 ## Contribuidores
 
-![Image](images\ji9c31d4.bmp)
+(images\ji9c31d4.bmp)
 
 ## Problemas com o jogo? Contate-nos
 
