@@ -5,7 +5,7 @@
 - [Linguagens usadas](#linguagens-usadas)
 - [Contribuidores](#contribuidores)
 - [Créditos](#créditos)
-- [Problemas com o jogo? Contate-nos](#problemas-com-o-jogo?-contate-nos)
+- [Problemas com o jogo? Contate-nos](#Problemas-com-o-jogo?-Contate-nos)
 
 ## Descrição
 
@@ -49,7 +49,7 @@
 
 - Música por KAHOOT IT (Vylet Trap Remix) [Link](https://bit.ly/3cME5Zw)
 
-## Problemas com o jogo? Contate-nos
+## Problemas com o jogo? Contate-nos:
 
 - mateusdccavalcanti@gmail.com
 - andrevasc@protonmail.com
