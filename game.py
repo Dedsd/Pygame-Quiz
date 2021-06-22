@@ -227,7 +227,7 @@ while Not_Pressed == True:
                 print("It worked")
                 Not_Pressed = False 
                 screen.fill( azulfundo )
-                music = ('images/yt1s.com - MusicKAHOOT IT Vylet Trap Remix.mp3')
+                music = ('images/yt1s.com-MusicKAHOOT-IT-Vylet-Trap-Remix_1.ogg')
                 pygame.mixer.init()
                 pygame.mixer.music.load(music)
                 pygame.mixer.music.play(-1)
